@@ -9,6 +9,10 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 #home{
     height: 80vh;
     background-color: #1f2937;
